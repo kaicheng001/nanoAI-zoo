@@ -42,6 +42,9 @@ The repository is organized into the following main directories:
   - [ ] Diffusion
   - [ ] Flow-based Models
 
+## Acknowledgements
+
+We would like to thank the open-source community for their contributions and inspiration in developing this repository. The repositories we reference are included in `docs/references.md`.
 
 ## LICENSE
 
