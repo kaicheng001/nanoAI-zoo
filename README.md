@@ -32,6 +32,7 @@ The repository is organized into the following main directories:
   - [ ] inference with vllm
 
 - **Vision-Language Models (VLM)**
+  - [ ] Prevalent VLMs VQA-API(Qwen, Gemini)
   - [ ] CLIP
   - [ ] LLaVA
   - [ ] SigLIP
