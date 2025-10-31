@@ -23,7 +23,8 @@ The repository is organized into the following main directories:
   - [x] ResNet 
   - [ ] Vision Transformer (ViT)
   - [ ] DINO 
-  - [ ] Swin Transformer 
+  - [ ] Swin Transformer
+  - [x] YOLOv7 
 
 - **Large Language Models (LLM)**
   - [ ] LoRA
@@ -34,7 +35,9 @@ The repository is organized into the following main directories:
   - [ ] CLIP
   - [ ] LLaVA
   - [ ] SigLIP
-  - [ ] BLIP
+  - [x] BLIP
+  - [x] Mobile-SAMv2
+  - [x] Grounding DINO
 
 - **Generative AI (GenAI)**
   - [ ] GANs
